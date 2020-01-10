@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -g   -shared -Wl,-soname,libGeneticAlgorithm.so -o /home/nam/Work/Projects/genetic_algorithm/lib/libGeneticAlgorithm.so CMakeFiles/GeneticAlgorithm.dir/GeneticAlgorithm.cpp.o 

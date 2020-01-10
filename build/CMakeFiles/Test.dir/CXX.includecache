@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nam/Work/Projects/genetic_algorithm/src/GeneticAlgorithm.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+assert.h
+-
+iostream
+-
+string
+-
+vector
+-
+
+/home/nam/Work/Projects/genetic_algorithm/src/test.cpp
+GeneticAlgorithm.h
+/home/nam/Work/Projects/genetic_algorithm/src/GeneticAlgorithm.h
+math.h
+-
+

@@ -1,0 +1,2 @@
+/home/nam/Work/Projects/genetic_algorithm/build/CMakeFiles/GeneticAlgorithm.dir
+/home/nam/Work/Projects/genetic_algorithm/build/CMakeFiles/Test.dir
